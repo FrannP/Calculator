@@ -1,2 +1,2 @@
 # Calculator
-CalculatorWeb App made with HTML, CSS & JS
+Calculator WebApp made with HTML, CSS & JS
